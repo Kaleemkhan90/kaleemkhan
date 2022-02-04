@@ -43,7 +43,7 @@ logo = """
    THE HACKER OF 𝐊𝐏𝐊
    THE GAME CHANGER ℒℴνℯ
    pakistani hackers PATHAN
-   ꧁H҉A҉C҉K҉E҉R҉꧂
+
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mlove
 \033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
